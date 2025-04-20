@@ -10,6 +10,12 @@ The robot employs a left-first maze-solving algorithm for maze solving. It featu
 - **Robot Navigation**: Integrates motor control for real-time movement within the maze.
 - **Sensor Integration**: Incorporates photodiode and IR LED sensor pairs to detect boundaries for accurate navigation.
 
+---
+
+![](MazeSolvingRobot.jpg)
+
+---
+
 ## Future Work
 
 - Implement advanced maze-solving algorithms for improved efficiency.
